@@ -1,5 +1,5 @@
 {
-  "name": "swagger-themes",
+  "name": "dah-swagger-themes",
   "version": "1.4.3",
   "description": "Library for measuring the topic of Swagger documentation",
   "main": "build/index.js",
