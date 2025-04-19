@@ -1,0 +1,12 @@
+// Deploy
+.github
+
+// IDE Dir
+.vscode
+.idea
+
+// Screenshots themes
+screenshots
+
+// Documentation
+docs
